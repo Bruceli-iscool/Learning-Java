@@ -1,5 +1,5 @@
 console.log('Welcome to mad libs')
-var X = prompt('Give me a location: ')
+var x = prompt('Give me a location: ')
 var y = prompt('give me a noun: ')
 var z = prompt('give me another noun: ')
-console.log('John went to the'+x+' to buy '+y+' . Then he got an '+ z+ 'from the pet store.')
+console.log('John went to the '+x+' to buy '+y+' . Then he got an '+ z+ ' from the pet store.')
