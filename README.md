@@ -1,2 +1,2 @@
-# Learning-Java
-just me learning java
+# Learning-Javascript
+just me learning javascript
